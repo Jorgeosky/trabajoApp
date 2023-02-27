@@ -2,6 +2,7 @@
   "name": "trabajo2-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Jorgeosky.github.io/trabajoApp",
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.12",
     "@testing-library/jest-dom": "^5.16.5",
