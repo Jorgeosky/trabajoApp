@@ -66,7 +66,7 @@ function ModalApp({ visible, setVisible, bindings }: any) {
           identificar la combinación de entrada actual y producir la salida
           correspondiente en hexadecimal.
         </Text>
-        <div className="Circuito">
+        <div className="Circuito" style={{overflow: "scroll", backgroundRepeat: "no-repeat"}}>
           <div className="switch">
             <div className="switch-item">
               <Text
