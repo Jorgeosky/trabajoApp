@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trabajoApp/static/css/main.9e827559.css",
+    "main.js": "/trabajoApp/static/js/main.2edaa216.js",
+    "static/media/Cap2.jpg": "/trabajoApp/static/media/Cap2.d6007c140bebb7effd82.jpg",
+    "index.html": "/trabajoApp/index.html",
+    "main.9e827559.css.map": "/trabajoApp/static/css/main.9e827559.css.map",
+    "main.2edaa216.js.map": "/trabajoApp/static/js/main.2edaa216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e827559.css",
+    "static/js/main.2edaa216.js"
+  ]
+}
