@@ -77,7 +77,7 @@ function ModalApp({ visible, setVisible, bindings }: any) {
                 }}
                 weight="bold"
               >
-                Entrada A0
+                In A0
               </Text>
               <Switch
                 bordered
@@ -98,7 +98,7 @@ function ModalApp({ visible, setVisible, bindings }: any) {
                 }}
                 weight="bold"
               >
-                Entrada A1
+                In A1
               </Text>
               <Switch
                 bordered
@@ -119,7 +119,7 @@ function ModalApp({ visible, setVisible, bindings }: any) {
                 }}
                 weight="bold"
               >
-                Entrada A2
+                In A2
               </Text>
               <Switch
                 bordered
@@ -140,7 +140,7 @@ function ModalApp({ visible, setVisible, bindings }: any) {
                 }}
                 weight="bold"
               >
-                Entrada A3
+                In A3
               </Text>
               <Switch
                 bordered
